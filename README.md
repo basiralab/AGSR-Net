@@ -3,6 +3,7 @@
 This repository provides the official PyTorch implementation of the following paper:
 
 **Brain Graph Super-Resolution Using Adversarial Graph Neural Network with Application to Functional Brain Connectivity.**
+
 [Megi Isallari](https://github.com/meg-i)<sup>1</sup>, [Islem Rekik](https://basira-lab.com/)<sup>1</sup>
 
 > <sup>1</sup>BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
