@@ -19,8 +19,10 @@ HR graph. Third, to handle the domain shift between the ground-truth and the pre
 # Detailed proposed AGSR-Net pipeline
 
 This work has been accepted for publication by “Medical Image Analysis” (MedIA) journal. The key idea of AGSR-Net can be summarized in four fundamental steps: (i) learning feature embeddings for each brain ROI
-(node) in the LR connectome, (ii) the design of a graph super-resolution operation that predicts an HR connectome from the LR connectivity matrix and feature embeddings of the LR connectome computed in (i), (iii) learning node feature embeddings for each node in the super-resolved (HR) graph obtained in (ii), (iv) integrating an adversarial model that acts as a discriminator to distinguish whether a HR connectome is from a prior ground-truth HR distribution or the generated HR connectome in (iii). We evaluated our framework on 277 subjects from the Southwest University Longitudinal Imaging Multimodal (SLIM) study:
+(node) in the LR connectome, (ii) the design of a graph super-resolution operation that predicts an HR connectome from the LR connectivity matrix and feature embeddings of the LR connectome computed in (i), (iii) learning node feature embeddings for each node in the super-resolved (HR) graph obtained in (ii), (iv) integrating an adversarial model that acts as a discriminator to distinguish whether a HR connectome is from a prior ground-truth HR distribution or the generated HR connectome in (iii). We evaluated our framework on 277 subjects from the Southwest University Longitudinal Imaging Multimodal (SLIM) study:
+
 http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html.
+
 In this repository, we release the code for training and testing AGSR-Net on the SLIM dataset.
 
 ![AGSR-Net pipeline](/images/overallfig.png)
