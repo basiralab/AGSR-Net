@@ -6,7 +6,7 @@ This repository provides the official PyTorch implementation of the following pa
 
 [Megi Isallari](https://github.com/meg-i)<sup>1</sup>, [Islem Rekik](https://basira-lab.com/)<sup>1</sup>
 
-> <sup>1</sup>BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
+> <sup>1</sup>BASIRA Lab, Faculty of Computer and Informatics Engineering, Istanbul Technical University, Istanbul, Turkey
 
 Please contact isallari.megi@gmail.com for further inquiries. Thanks.
 
