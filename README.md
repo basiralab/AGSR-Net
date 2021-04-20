@@ -106,6 +106,8 @@ J.: Longitudinal test-retest neuroimaging data from healthy young adults in sout
 
 # GSR-Net paper on arXiv:
 
-https://arxiv.org/abs/2009.11080
+Coming up soon.
 
-# Please cite the following paper when using GSR-Net:
+# Please cite the following paper when using AGSR-Net:
+
+Coming up soon.
