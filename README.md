@@ -14,7 +14,7 @@ Brain image analysis has advanced substantially in recent years with the prolife
 symmetry of the U-Net architecture by super-resolving the low-resolution brain graph structure and node content with a GSR layer and two graph convolutional network layers to further learn the node embeddings in the
 HR graph. Third, to handle the domain shift between the ground-truth and the predicted HR brain graphs, we incorporate adversarial regularization to align their respective distributions. Our proposed AGSR-Net framework outperformed its variants for predicting high-resolution functional brain graphs from low-resolution ones.
 
-![AGSR-Net pipeline](/images/concept_fig.PNG)
+![AGSR-Net pipeline](/images/concept_fig.png)
 
 # Detailed proposed AGSR-Net pipeline
 
@@ -40,7 +40,7 @@ Python 3.6.9 and PyTorch 1.4.0. In case you opt to run the code locally, you nee
 
 # Demo
 
-We provide a demo code in `demo.py` to run the script of GSR-Net for predicting high-resolution connectomes from low-resolution functional brain connectomes. To set the parameters, you should provide commandline arguments.
+We provide a demo code in `demo.py` to run the script of AGSR-Net for predicting high-resolution connectomes from low-resolution functional brain connectomes. To set the parameters, you should provide commandline arguments.
 
 If you want to run the code in the hyperparameters described in the paper, you can run it without any commandline arguments:
 
@@ -107,7 +107,7 @@ Graph U-Nets: Gao, H., Ji, S.: Graph u-nets. In Chaudhuri, K., Salakhutdinov, R.
 SLIM Dataset: Liu, W., Wei, D., Chen, Q., Yang, W., Meng, J., Wu, G., Bi, T., Zhang, Q., Zuo, X.N., Qiu,
 J.: Longitudinal test-retest neuroimaging data from healthy young adults in southwest china. Scientific Data 4 (2017) [https://www.nature.com/articles/sdata201717]
 
-# GSR-Net paper on arXiv:
+# AGSR-Net paper on arXiv:
 
 Coming up soon.
 
