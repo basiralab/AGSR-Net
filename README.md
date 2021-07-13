@@ -113,4 +113,14 @@ Coming up soon.
 
 # Please cite the following paper when using AGSR-Net:
 
-Coming up soon.
+```latex
+@article{isallari2021brain,
+  title={Brain graph super-resolution using adversarial graph neural network with application to functional brain connectivity},
+  author={Isallari, Megi and Rekik, Islem},
+  journal={Medical Image Analysis},
+  volume={71},
+  pages={102084},
+  year={2021},
+  publisher={Elsevier}
+}
+```
